@@ -1,0 +1,17 @@
+{
+  "name": "grapesjs-tailwind-4",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwind 4",
+    "grapesjs",
+    "grapes"
+  ],
+  "author": "MR. Digital Studio",
+  "license": "ISC",
+  "description": "Adds Tailwind 4 script to GrapesJS"
+}
